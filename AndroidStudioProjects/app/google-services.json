@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883933641706",
+    "project_id": "i-market-109e7",
+    "storage_bucket": "i-market-109e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883933641706:android:71d1b1b421e8a1f16f9093",
+        "android_client_info": {
+          "package_name": "com.example.ifoodmarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-lc_GNjFXCvMt56OyiieZcMli_nWh1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
